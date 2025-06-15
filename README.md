@@ -55,8 +55,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/SubhobrataMaity/SubhobrataMaity/output/snake.svg" alt="Snake animation" />
 
 ###
