@@ -51,6 +51,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SubhobrataMaity/SubhobrataMaity/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/SubhobrataMaity/SubhobrataMaity/blob/output/github-contribution-grid-snake-dark.svg)
 ###
