@@ -53,6 +53,11 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SubhobrataMaity/count.svg?"  />
+</div>
+
+###
 ###
 
 <img src="https://raw.githubusercontent.com/SubhobrataMaity/SubhobrataMaity/output/snake.svg" alt="Snake animation" />
