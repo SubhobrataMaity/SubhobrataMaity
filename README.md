@@ -2,7 +2,7 @@
 <h3 align="left">Business & Technology Analyst | Full-Stack & AI/ML Engineer</h3>
 
 I build software where business strategy meets scalable engineering. 
-Currently completing a B.Tech in CS (AI & ML), working at the 
+Currently completing a B.Tech in CSE(AI & ML), working at the 
 intersection of understanding business problems and shipping the 
 systems that solve them — sharpened through a government-backed MSME 
 digitalization internship and independent full-stack + AI projects.
