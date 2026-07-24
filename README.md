@@ -58,9 +58,6 @@ digitalization internship and independent full-stack + AI projects.
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SubhobrataMaity/count.svg?"/>
-</div>
 
 ###
 
